@@ -27,7 +27,7 @@ Trabaja con recepciones, transformaciones, lotes, existencias y expediciones. Ut
 ## Procedimiento
 
 1. Identifica proveedor, lote y cantidad de cada entrada sin sustituir códigos originales.
-2. Relaciona divisiones, mezclas y transformaciones con los lotes de salida y registros de proceso.
+2. Relaciona divisiones, mezclas y transformaciones con los lotes de salida y registros de proceso. Distingue cantidad recibida, almacenada y consumida por cada origen; recibir un lote no significa consumirlo por completo.
 3. Vincula existencias y expediciones a destinatarios y fechas, conservando devoluciones y rectificaciones.
 4. Revisa balance de cantidades, mermas justificadas y movimientos sin vínculo.
 5. Entrega la trazabilidad hacia atrás y adelante con limitaciones explícitas para el responsable.

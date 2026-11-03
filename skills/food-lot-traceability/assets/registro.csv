@@ -1,1 +1,1 @@
-lote_origen,proveedor,entrada,proceso,lote_salida,cantidad,unidad,destinatario,fecha,documento,incidencia
+tipo_movimiento,lote_origen,proveedor,entrada,proceso,lote_salida,cantidad_recibida,cantidad_consumida,cantidad_salida,merma_documentada,unidad,destinatario,fecha,documento,revision,incidencia
